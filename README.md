@@ -1,16 +1,16 @@
 # Intro to ML
 # datafun-07-ml
 # .gitignore file
-#Ignore project virtual environment in the .venv folder
+Ignore project virtual environment in the .venv folder
 .venv/
 
-#Ignore Visual Studio Code settings in the .vscode folder
+Ignore Visual Studio Code settings in the .vscode folder
 .vscode/
 
-#Ignore macOS specific files
+Ignore macOS specific files
 .DS_Store
 
-#ignore checkpoints folder
+ignore checkpoints folder
 
  .ipynb_checkpoints/
 Git commands used:
